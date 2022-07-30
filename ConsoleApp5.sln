@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mini Calculator2", "ConsoleApp5\Mini Calculator2.csproj", "{8849B1AD-E6AB-4B04-838B-ADBAE78D0C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8849B1AD-E6AB-4B04-838B-ADBAE78D0C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8849B1AD-E6AB-4B04-838B-ADBAE78D0C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8849B1AD-E6AB-4B04-838B-ADBAE78D0C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8849B1AD-E6AB-4B04-838B-ADBAE78D0C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C9EEEA-5A9F-4882-A122-ED064178BF32}
+	EndGlobalSection
+EndGlobal
